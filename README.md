@@ -16,14 +16,33 @@
 
 ### ⚡ // SYSTEM_DIAGNOSTICS
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Eustakius&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eustakius&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+```bash
+CRITICAL_PROCESS_DIED: RECOVERING...
+-------------------------------------
+[ OK ] Verified System Integrity
+[ OK ] Mounted /dev/skills/react
+[ OK ] Mounted /dev/skills/laravel
+[ !! ] WARNING: Explosive Payload Detect
+-------------------------------------
+> USER: Eustakius
+> CLASS: Bomb Devil
+> STRAT: Full Stack Detonation
+> LOGS: 100% Secure
+```
 
 <br/>
 
 ### 💣 // IGNITION_LOGS
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eustakius&theme=dark&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+```js
+const mission = {
+    target: "Web Domination",
+    status: "ACTIVE",
+    streak: "INFINITE",
+    kill_count: 9999,
+    music: "Chainsaw Man - KICK BACK"
+};
+```
 
 </div>
 
