@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/m4s1a_Q2fWIAAAAd/lain-iwakura-serial-experiments-lain.gif" width="100%" style="border-radius: 10px; filter: grayscale(100%) contrast(120%);" />
+  <img src="https://media1.tenor.com/m/Fw_h8j4XkXIAAAAd/reze-chainsaw-man.gif" width="100%" style="border-radius: 10px; filter: grayscale(100%) contrast(120%);" />
 </div>
 
-<h1 align="center">SYSTEM_USER: EUSTAKIUS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">USER: EUSTAKIUS // BOMB_DEVIL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <i>"In the wired, we are all connected."</i>
+  <i>"Won't you teach me how to swim?"</i>
 </p>
 
 <p align="center">
@@ -19,22 +19,22 @@
 
 ---
 
-### ⚡ // SYSTEM_DIAGNOSTICS
+### 💣 // EXPLOSIVE_DIAGNOSTICS
 
 ```bash
-user@eustakius:~$ neofetch
+user@reze:~$ neofetch
 -----------------------
-OS          : Linux (Custom Kernel)
-Shell       : ZSH // Oh-My-Zsh
-Aesthetic   : Cybersigilism // Brutalist
-Current_Obj : Full Stack Development
-Focus       : Laravel 11 // React // System Architecture
-Status      : ONLINE
+OS          : Linux (Hybrid Kernel)
+Shell       : ZSH // Boom-sh
+Aesthetic   : Cybersigilism // Gunpowder
+Current_Obj : Full Stack Detonation
+Focus       : Laravel 11 // React // Ballistics
+Status      : ARMED
 ```
 
 ---
 
-### 🛠 // ARSENAL
+### 🧨 // ARSENAL
 
 <div align="center">
 
@@ -48,7 +48,7 @@ Status      : ONLINE
 
 ---
 
-### 📂 // PROJECT_LOGS
+### 📂 // TARGET_LOGS
 
 - **[yt-converter](https://github.com/Eustakius/yt-converter)**: A monolithic, high-fidelity media extractor. 
   - *Tech*: Laravel 11, React, FFmpeg.
@@ -57,10 +57,10 @@ Status      : ONLINE
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eustakius&show_icons=true&theme=dark&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eustakius&layout=compact&theme=dark&bg_color=000000&title_color=ff003c&text_color=ffffff&hide_border=true" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eustakius&show_icons=true&theme=dark&bg_color=000000&title_color=800080&text_color=ffffff&icon_color=800080&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eustakius&layout=compact&theme=dark&bg_color=000000&title_color=800080&text_color=ffffff&hide_border=true" alt="Languages" />
 </div>
 
 <div align="center">
- <p><i>END_OF_TRANSMISSION</i></p>
+ <p><i>KA-BOOM</i></p>
 </div>
