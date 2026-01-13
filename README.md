@@ -1,40 +1,37 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/Fw_h8j4XkXIAAAAd/reze-chainsaw-man.gif" width="100%" style="border-radius: 10px; filter: grayscale(100%) contrast(120%);" />
+  <img src="https://media1.tenor.com/m/_qD-v8C47wIAAAAC/reze-csm.gif" width="100%" style="border-radius: 10px; filter: contrast(110%);" />
 </div>
 
-<h1 align="center">USER: EUSTAKIUS // BOMB_DEVIL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Eustakius <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <i>"Won't you teach me how to swim?"</i>
+  <i>"I think I like the country mouse better."</i>
 </p>
 
 <p align="center">
   <a href="https://github.com/Eustakius">
-    <img src="https://img.shields.io/github/followers/Eustakius?style=social" alt="Followers" />
-  </a>
-  <a href="https://github.com/Eustakius">
-    <img src="https://img.shields.io/github/stars/Eustakius?style=social" alt="Stars" />
+    <img src="https://img.shields.io/github/followers/Eustakius?style=social&label=Follow&color=800080" alt="Followers" />
   </a>
 </p>
 
 ---
 
-### 💣 // EXPLOSIVE_DIAGNOSTICS
+### ☕ // CAFE_LOGS
 
 ```bash
 user@reze:~$ neofetch
 -----------------------
-OS          : Linux (Hybrid Kernel)
-Shell       : ZSH // Boom-sh
-Aesthetic   : Cybersigilism // Gunpowder
-Current_Obj : Full Stack Detonation
-Focus       : Laravel 11 // React // Ballistics
-Status      : ARMED
+OS          : Linux (Hybrid)
+Shell       : ZSH // Oh-My-Zsh
+Current_Obj : Full Stack Engineering
+Focus       : Laravel 11 // React
+Aesthetic   : Violet // Bloom
+Status      : BREWING...
 ```
 
 ---
 
-### 🧨 // ARSENAL
+### 💜 // TECH_STACK
 
 <div align="center">
 
@@ -48,19 +45,18 @@ Status      : ARMED
 
 ---
 
-### 📂 // TARGET_LOGS
+### 📂 // PROJECTS
 
-- **[yt-converter](https://github.com/Eustakius/yt-converter)**: A monolithic, high-fidelity media extractor. 
+- **[yt-converter](https://github.com/Eustakius/yt-converter)**: A high-fidelity media extraction tool. 
   - *Tech*: Laravel 11, React, FFmpeg.
-  - *Status*: `STABLE`
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eustakius&show_icons=true&theme=dark&bg_color=000000&title_color=800080&text_color=ffffff&icon_color=800080&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eustakius&layout=compact&theme=dark&bg_color=000000&title_color=800080&text_color=ffffff&hide_border=true" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eustakius&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eustakius&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&hide_border=true" alt="Languages" />
 </div>
 
 <div align="center">
- <p><i>KA-BOOM</i></p>
+ <p><i>See you at the cafe.</i></p>
 </div>
