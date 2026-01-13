@@ -30,18 +30,15 @@
   Always exploring new technologies to improve efficiency and user experience.
 </p>
 
-<h3>💎 // MAGNUM_OPUS</h3>
+<h3>� // PROJECT_INDEX</h3>
 
-<div align="center">
-  <a href="https://github.com/Eustakius/yt-converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eustakius&repo=yt-converter&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true" alt="yt-converter" />
+<p align="center">
+  <b>Explore my full body of work in the repositories.</b>
+  <br/><br/>
+  <a href="https://github.com/Eustakius?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0d0d0d?style=for-the-badge&logo=github&logoColor=white&border=a855f7" alt="View Repositories" />
   </a>
-  <br/>
-  <p>
-    <i>"A system that renders the complex simple."</i><br/>
-    <b>Monolithic Architecture // 4K Lossless Extraction // No Tracking</b>
-  </p>
-</div>
+</p>
 
 </div>
 
