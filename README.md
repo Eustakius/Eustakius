@@ -27,8 +27,21 @@
   <br/><br/>
   My interests lie at the intersection of <b>Media Extraction</b>, <b>Monolithic Design</b>, and <b>Cybersigilism</b>, exploring both the raw power and aesthetic potential of modern web technologies.
   <br/><br/>
-  Experienced in <b>Linux Servers</b>, <b>FFmpeg Pipelines</b>, and the <b>React Ecosystem</b>, with a growing arsenal of high-performance tools like <b>[yt-converter](https://github.com/Eustakius/yt-converter)</b>.
+  Experienced in <b>Linux Servers</b>, <b>FFmpeg Pipelines</b>, and the <b>React Ecosystem</b>.
 </p>
+
+<h3>💎 // MAGNUM_OPUS</h3>
+
+<div align="center">
+  <a href="https://github.com/Eustakius/yt-converter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eustakius&repo=yt-converter&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true" alt="yt-converter" />
+  </a>
+  <br/>
+  <p>
+    <i>"A system that renders the complex simple."</i><br/>
+    <b>Monolithic Architecture // 4K Lossless Extraction // No Tracking</b>
+  </p>
+</div>
 
 </div>
 
