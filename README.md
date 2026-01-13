@@ -14,20 +14,16 @@
 
 <div align="center">
 
-<h3>⚡ // SYSTEM_DIAGNOSTICS</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Eustakius&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true&custom_title=DIAGNOSTICS" height="150" alt="stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eustakius&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&hide_border=true&langs_count=8" height="150" alt="langs" />
-</a>
+### ⚡ // SYSTEM_DIAGNOSTICS
 
-<br/><br/>
+[![Stats](https://github-readme-stats.vercel.app/api?username=Eustakius&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eustakius&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>💣 // IGNITION_LOGS</h3>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eustakius&theme=dark&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="streak" />
-</a>
+<br/>
+
+### 💣 // IGNITION_LOGS
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eustakius&theme=dark&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
