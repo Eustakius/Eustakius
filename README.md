@@ -1,62 +1,131 @@
 <div align="center">
-  <img src="https://i.redd.it/h8cnhm4y6waf1.gif" width="100%" style="border-radius: 10px; filter: contrast(110%);" />
-</div>
-
-<h1 align="center">Hi, I'm Eustakius <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-<p align="center">
-  <i>"I think I like the country mouse better."</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Eustakius">
-    <img src="https://img.shields.io/github/followers/Eustakius?style=social&label=Follow&color=800080" alt="Followers" />
-  </a>
-</p>
-
----
-
-### ☕ // CAFE_LOGS
-
-```bash
-user@reze:~$ neofetch
------------------------
-OS          : Linux (Hybrid)
-Shell       : ZSH // Oh-My-Zsh
-Current_Obj : Full Stack Engineering
-Focus       : Laravel 11 // React
-Aesthetic   : Violet // Bloom
-Status      : BREWING...
-```
-
----
-
-### 💜 // TECH_STACK
-
-<div align="center">
-
-| **CORE** | **FRONTEND** | **BACKEND** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> | <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> |
-
-</div>
-
----
-
-### 📂 // PROJECTS
-
-- **[yt-converter](https://github.com/Eustakius/yt-converter)**: A high-fidelity media extraction tool. 
-  - *Tech*: Laravel 11, React, FFmpeg.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eustakius&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eustakius&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&hide_border=true" alt="Languages" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=header&text=&fontSize=90" width="100%"/>
+    <img src="https://i.redd.it/h8cnhm4y6waf1.gif" width="100%" style="border-radius: 15px; border: 2px solid #a855f7; box-shadow: 0 0 20px #a855f7; filter: contrast(110%); margin-top: -80px; position: relative; z-index: 2;" />
 </div>
 
 <div align="center">
- <p><i>See you at the cafe.</i></p>
+    <br/>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=SYSTEM_USER%3A+EUSTAKIUS;CODENAME%3A+BOMB_DEVIL;STATUS%3A+DETONATION_IMMINENT;TARGET%3A+FULL_STACK_MASTERY" alt="Typing SVG" />
+    </a>
+</div>
+
+<br/>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Eustakius&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<br/>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="50%" valign="top">
+            <h3 align="center">⚡ // SYSTEM_KERNEL</h3>
+            <br/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Eustakius&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true&custom_title=DIAGNOSTICS" width="100%" />
+            <br/><br/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eustakius&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a855f7&text_color=ffffff&hide_border=true&langs_count=8" width="100%" />
+        </td>
+        <td width="3%"></td>
+        <td width="47%" valign="top">
+            <h3 align="center">💣 // IGNITION_LOGS</h3>
+            <br/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eustakius&theme=dark&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+            <br/><br/>
+            <div align="center">
+                <p><i>"The gunfire... It sounds like a melody."</i></p>
+                <img src="https://media.tenor.com/On7k95_1sD4AAAAC/reze-chainsaw-man.gif" width="280" style="border-radius: 10px; opacity: 0.8;" />
+            </div>
+        </td>
+    </tr>
+</table>
+
+<br/>
+
+<h2 align="center">🏗 // ADVANCED_ARSENAL_MATRIX</h2>
+
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=linux" width="45" /><br/>
+            <sub><b>LINUX</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=react" width="45" /><br/>
+            <sub><b>REACT</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=laravel" width="45" /><br/>
+            <sub><b>LARAVEL</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=php" width="45" /><br/>
+            <sub><b>PHP</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=ts" width="45" /><br/>
+            <sub><b>TS</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=docker" width="45" /><br/>
+            <sub><b>DOCKER</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=git" width="45" /><br/>
+            <sub><b>GIT</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vite" width="45" /><br/>
+            <sub><b>VITE</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mysql" width="45" /><br/>
+            <sub><b>MYSQL</b></sub>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=bash" width="45" /><br/>
+            <sub><b>BASH</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="45" /><br/>
+            <sub><b>TAILWIND</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postman" width="45" /><br/>
+            <sub><b>POSTMAN</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vscode" width="45" /><br/>
+            <sub><b>VSCODE</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=figma" width="45" /><br/>
+            <sub><b>FIGMA</b></sub>
+        </td>
+         <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nginx" width="45" /><br/>
+            <sub><b>NGINX</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br/>
+            <sub><b>NODE</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=bun" width="45" /><br/>
+            <sub><b>BUN</b></sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vercel" width="45" /><br/>
+            <sub><b>VERCEL</b></sub>
+        </td>
+    </tr>
+</table>
+
+<br/>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer" width="100%"/>
 </div>
