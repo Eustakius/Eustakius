@@ -6,7 +6,7 @@
 <div align="center">
     <br/>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=FF8800&center=true&vCenter=true&width=500&lines=HI,+I'M+EUSTAKIUS;FULL+STACK+DEVELOPER;CYBERSIGIL+ARCHITECT" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=FF8800&center=true&vCenter=true&width=500&lines=HI,+I'M+EUSTAKIUS;FULL+STACK+DEVELOPER;SOFTWARE+ENGINEER" alt="Typing SVG" />
     </a>
 </div>
 
@@ -17,17 +17,17 @@
 <h3>👋 // SYSTEM_INTRODUCTION</h3>
 
 <p align="center" style="max-width: 600px;">
-  <b>Currently detonating expectations with Laravel 11 and React.</b>
+  <b>Building robust, scalable solutions with Laravel 11 and React.</b>
 </p>
 
 <h3>🚀 // ABOUT_ME</h3>
 
 <p align="center" style="max-width: 600px;">
-  I’m a <b>Full Stack Developer</b> focused on <b>System Architecture</b> and <b>High-Fidelity User Interfaces</b>.
+  I’m a <b>Computer Science Student</b> and <b>Full Stack Developer</b> dedicated to engineering reliable, high-performance software.
   <br/><br/>
-  My interests lie at the intersection of <b>Media Extraction</b>, <b>Monolithic Design</b>, and <b>Cybersigilism</b>, exploring both the raw power and aesthetic potential of modern web technologies.
+  My focus lies in <b>System Architecture</b>, <b>Data Security</b>, and <b>Application Development</b>. I bridge the gap between complex backend logic and intuitive frontend design, ensuring that every project is built on a foundation of clean, maintainable code.
   <br/><br/>
-  Experienced in <b>Linux Servers</b>, <b>FFmpeg Pipelines</b>, and the <b>React Ecosystem</b>.
+  Always exploring new technologies to improve efficiency and user experience.
 </p>
 
 <h3>💎 // MAGNUM_OPUS</h3>
