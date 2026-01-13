@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/_qD-v8C47wIAAAAC/reze-csm.gif" width="100%" style="border-radius: 10px; filter: contrast(110%);" />
+  <img src="https://i.redd.it/h8cnhm4y6waf1.gif" width="100%" style="border-radius: 10px; filter: contrast(110%);" />
 </div>
 
 <h1 align="center">Hi, I'm Eustakius <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
