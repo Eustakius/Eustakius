@@ -41,6 +41,9 @@ My focus lies in <b>System Architecture</b>, <b>Data Security</b>, and <b>Digita
 <br/><br/>
 Currently working as a <b>Digital Forensics Intern</b> at BP3MI and always exploring new technologies. 🕵️‍♂️🚀
 </p>
+<a href="https://www.linkedin.com/in/eustakius-satu-rajawali-ku-2a35671ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
