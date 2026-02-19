@@ -5,15 +5,17 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=120&section=header&text=&fontSize=90" width="100%"/>
-<img src="https://media.tenor.com/3Sykma8la9gAAAAM/reze-tongue-out-reze-chainsaw-man-moving-her-head.gif" width="600" style="border-radius: 15px; border: 3px solid #a855f7; box-shadow: 0 0 30px #a855f7; filter: contrast(110%); margin-top: -50px; margin-bottom: 20px; position: relative; z-index: 2; display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://media1.tenor.com/m/cK5tCjfVbnIAAAAC/reze-smiles.gif" width="100%" style="border-radius: 15px; border: 3px solid #a855f7; box-shadow: 0 0 30px #a855f7; filter: contrast(110%); margin-top: -50px; margin-bottom: 20px; position: relative; z-index: 2;" />
 
 </div>
 
 <div align="center">
 <h1 align="center">EUSTAKIUS</h1>
+<p align="center">
 <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;CYBERSECURITY+PRACTITIONER;DIGITAL+FORENSICS+ANALYST" alt="Typing SVG" />
 </a>
+</p>
 </div>
 
 
