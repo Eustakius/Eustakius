@@ -39,7 +39,7 @@ I’m a <b>Computer Science Student</b> and <b>Full Stack Developer</b> dedicate
 <br/><br/>
 My focus lies in <b>System Architecture</b>, <b>Data Security</b>, and <b>Digital Forensics</b>. I bridge the gap between complex backend logic and intuitive frontend design, ensuring that every project is built on a foundation of clean, maintainable, and secure code. 🛡️🔐
 <br/><br/>
-Currently working as a <b>Digital Forensics Intern</b> at BP3MI and always exploring new technologies. 🕵️‍♂️🚀
+Currently working as a <b>Full Stack Engineer</b> at Telkomsigma and always exploring new technologies. 🕵️‍♂️🚀
 </p>
 <a href="https://www.linkedin.com/in/eustakius-satu-rajawali-ku-2a35671ab/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
